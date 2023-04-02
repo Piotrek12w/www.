@@ -1,0 +1,13 @@
+.demo  a{
+    display: block;
+    margin: auto;
+    background: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    width: 320px;
+border-radius: 5px;
+font-size: 20px;
+}
